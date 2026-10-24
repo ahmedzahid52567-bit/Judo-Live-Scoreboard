@@ -25,21 +25,25 @@ A modern, responsive, and dynamic live scoreboard application for Judo tournamen
 ## 📦 Installation & Setup
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/ahmedzahid52567-bit/Judo-Live-Scoreboard.git
    ```
 
 2. **Navigate into the project directory**:
+
    ```bash
    cd "Judo-Live-Scoreboard"
    ```
 
 3. **Install dependencies**:
+
    ```bash
    npm install
    ```
 
 4. **Start the development server**:
+
    ```bash
    npm run dev
    ```
@@ -48,8 +52,10 @@ A modern, responsive, and dynamic live scoreboard application for Judo tournamen
 
 ## 🖼️ Screenshots
 
-*The screenshots for the Admin Dashboard and Audience Display are located in the `img/` directory of this project.*
+![Judo Live Scoreboard — screenshot 1](img/Screenshot%202026-09-27%20124513.png)
+
+![Judo Live Scoreboard — screenshot 2](img/Screenshot%202026-09-27%20124555.png)
 
 ## 📄 License
 
-This project is open-source and available for use in live sporting events and educational purposes.
+MIT — see LICENSE.
